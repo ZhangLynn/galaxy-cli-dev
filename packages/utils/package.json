@@ -1,0 +1,21 @@
+{
+  "name": "@galaxy-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "galaxy-cli-dev utils",
+  "author": "zl8312070@sina.com <zl...8312070>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+  }
+}
