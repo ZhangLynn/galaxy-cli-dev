@@ -2,7 +2,7 @@
   "name": "@galaxy-cli-dev/core",
   "version": "1.0.2",
   "description": "galaxy-cli-dev core",
-  "author": "zl8312070@sina.com <zl...8312070>",
+  "author": "zl8312070@sina.com",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@galaxy-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "c0104360e5629f254d3737de7efd3a4d5b50f022"
 }
