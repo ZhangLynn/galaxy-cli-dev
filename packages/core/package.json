@@ -1,6 +1,6 @@
 {
   "name": "@galaxy-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "galaxy-cli-dev core",
   "author": "zl8312070@sina.com <zl...8312070>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@galaxy-cli-dev/utils": "^1.0.1"
+    "@galaxy-cli-dev/utils": "^1.0.2"
   }
 }
